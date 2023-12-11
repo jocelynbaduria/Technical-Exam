@@ -1,2 +1,2 @@
 # Technical-Exam
-Gaussian Naive Bayes Sentiment Analysis  Model 
+Model with highest accuracy is Gradient Boosting Claasier  with 67% accuracy.
