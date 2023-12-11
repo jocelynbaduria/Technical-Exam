@@ -1,0 +1,39 @@
+text,expected_sentiment,model_output,confidence_score
+"0      @stellargirl I loooooooovvvvvveee my Kindle2. ...
+1      Reading my kindle2...  Love it... Lee childs i...
+2      Ok, first assesment of the #kindle2 ...it fuck...
+3      @kenburbary You'll love your Kindle2. I've had...
+4      @mikefish  Fair enough. But i have the Kindle2...
+                             ...                        
+493    Ask Programming: LaTeX or InDesign?: submitted...
+494    On that note, I hate Word. I hate Pages. I hat...
+495    Ahhh... back in a *real* text editing environm...
+496    Trouble in Iran, I see. Hmm. Iran. Iran so far...
+497    Reading the tweets coming out of Iran... The w...
+Name: text, Length: 498, dtype: object","0      positive
+1      positive
+2      positive
+3      positive
+4      positive
+         ...   
+493     neutral
+494    negative
+495    positive
+496    negative
+497    negative
+Name: expected_sentiment, Length: 498, dtype: object","['negative' 'positive' 'neutral' 'positive' 'negative' 'negative'
+ 'positive' 'positive' 'neutral' 'negative' 'negative' 'neutral' 'neutral'
+ 'positive' 'neutral' 'positive' 'positive' 'positive' 'negative'
+ 'negative' 'negative' 'positive' 'negative' 'positive' 'negative'
+ 'neutral' 'positive' 'positive' 'positive' 'neutral' 'negative'
+ 'positive' 'positive' 'negative' 'positive' 'positive' 'neutral'
+ 'neutral' 'positive' 'positive' 'positive' 'negative' 'neutral'
+ 'negative' 'neutral' 'positive' 'negative' 'positive' 'neutral'
+ 'negative' 'neutral' 'negative' 'negative' 'negative' 'neutral'
+ 'positive' 'positive' 'positive' 'negative' 'positive' 'positive'
+ 'negative' 'negative' 'negative' 'negative' 'neutral' 'neutral'
+ 'negative' 'negative' 'neutral' 'negative' 'positive' 'negative'
+ 'negative' 'neutral' 'negative' 'positive' 'negative' 'positive'
+ 'positive' 'neutral' 'negative' 'neutral' 'neutral' 'negative' 'neutral'
+ 'neutral' 'neutral' 'positive' 'positive' 'positive' 'neutral' 'neutral'
+ 'neutral' 'neutral' 'negative' 'neutral' 'positive' 'positive' 'positive']",67.0
